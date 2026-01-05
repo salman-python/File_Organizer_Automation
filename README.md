@@ -65,7 +65,7 @@ os is a Built-in Module.
 
 Created by [Muhammad Salman] — making file management easier, one Python script at a time.
 
-###🔗 License
+# 🔗 License
 
 This project is open-source and free to use. Feel free to modify and share!
 
