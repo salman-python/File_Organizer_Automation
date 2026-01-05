@@ -61,9 +61,9 @@ Python 3.x (tested on Python 3.10+)
 No external libraries needed.
 os is a Built-in Module.
 
-👤 Author
+#                                                                                                                                          👤 Author
 
-Created by [Muhammad Salman] — making file management easier, one Python script at a time.
+                                                                                                                        Created by [Muhammad Salman] — making file management easier, one Python script at a time.
 
 # 🔗 License
 
